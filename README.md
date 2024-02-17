@@ -2,7 +2,7 @@
 DEMO - https://blazorimagerecognitionapp.azurewebsites.net/
 
 ## Azure Technologies used
- Azure Services - Azure App Services, Azure Resource Manager
+ Azure Services - Azure App Services, Azure Resource Manager \n
  Azure AI - Azure Computer Vision, Cognitive Search, Image Recognition
  
  ![azure](https://github.com/bhoomikamittal8/Future_Ready_Talent/assets/134505091/f7381171-9491-48c4-bbdf-0b3f3703e248)
