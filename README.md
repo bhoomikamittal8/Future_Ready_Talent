@@ -1,4 +1,5 @@
 # FRT Project - Blazor Server Image Recognition App
+Demo - https://blazorimagerecognitionapp.azurewebsites.net/
 
 Simple Blazor Server app which uses image recognition to identify and extract text printed in an image file uploaded by the user.  The app utilises the recognise printed text in image function in the Azure Computer Vision Cognitive service to identify and extract printed text from an uploaded image file
 
