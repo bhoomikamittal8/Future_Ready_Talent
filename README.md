@@ -1,5 +1,7 @@
 # FRT Project - Blazor Server Image Recognition and Text Extractor App
-DEMO - https://blazorimagerecognitionapp.azurewebsites.net/
+Project Demo URL - https://blazorimagerecognitionapp.azurewebsites.net/  
+<br>
+Project Demo Video URL- https://youtu.be/2DwIo8wiVQw?si=-1AbAoHfXTzud1Iz
 
 ## Azure Technologies used
  Azure Services - Azure App Services, Azure Resource Manager <br>
